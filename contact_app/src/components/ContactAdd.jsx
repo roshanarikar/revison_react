@@ -3,6 +3,7 @@
 export const ContactAdd = () =>{
     return(
         <div>
+            <form>
             <div>
                 <label>Name</label>
                 <input type="text" />
@@ -14,6 +15,7 @@ export const ContactAdd = () =>{
             <div>
                 <button>Add</button>
             </div>
+            </form>
         </div>
     )
 }

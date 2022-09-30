@@ -1,7 +1,14 @@
 
 
-export const ContactCard = () => {
+export const ContactCard = (props) => {
+    const {id,name,email} = props.contact
     return(
-        <div>ContactCard</div>
+        <div>
+            <div>
+                <div>{name}</div>
+                <div>{email}</div>
+            </div>
+            <div></div>
+        </div>
     )
 }

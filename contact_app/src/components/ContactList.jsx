@@ -1,7 +1,18 @@
+import { ContactCard } from "./ContactCard"
 
 
-export const ContactList = () =>{
+export const ContactList = (props) =>{
+
     return(
-        <div>ContactList</div>
+        <div>
+            <div>Contact List</div>
+            {
+            props.contact.map((e)=>{
+                return(
+                  <ContactCard contact={e}/>
+                )
+            })}
+            
+        </div>
     )
 }
