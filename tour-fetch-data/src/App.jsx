@@ -11,7 +11,7 @@ const [tour,setTour] = useState(true)
 
 const FetchTour = async () =>{
   try {
-    setloading(true);
+    setloading(false);
   const res = await fetch(url);
   const tour = await res.json()
   setTour(tour)
