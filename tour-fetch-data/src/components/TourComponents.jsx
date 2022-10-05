@@ -2,6 +2,6 @@
 
 export const TourComponents = () =>{
     return(
-        <div>Tour Components</div>
+        <div>Tour Component</div>
     )
 }
