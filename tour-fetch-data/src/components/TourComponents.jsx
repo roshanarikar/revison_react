@@ -1,7 +1,16 @@
+import { SingleTour } from "./SingleTour"
 
 
-export const TourComponents = () =>{
+export const TourComponents = ({tours}) =>{
     return(
-        <div>Tour Component</div>
+        <div>
+            {
+                tours.map((e)=>{
+                    return(
+                        <SingleTour key={e.id}  {...tours}/>
+                    )
+                })
+            }
+        </div>
     )
 }
