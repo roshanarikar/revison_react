@@ -1,6 +1,5 @@
 import { SingleTour } from "./SingleTour"
 
-
 export const TourComponents = ({tours, removeTour}) =>{
     return(
         <div>

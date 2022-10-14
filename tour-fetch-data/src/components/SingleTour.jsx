@@ -1,6 +1,5 @@
 import { useState } from "react"
 
-
 export const SingleTour = ({id,image,info,price,name,removeTour}) =>{
     const [readMore,setReadMore] = useState(false)
     return(
@@ -22,3 +21,5 @@ export const SingleTour = ({id,image,info,price,name,removeTour}) =>{
         </div>
     )
 }
+
+
