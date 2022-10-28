@@ -39,3 +39,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.box{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: auto;
+}
+
+.cold{
+  background-color: blue;
+}
+
+.hot{
+  background-color: orange;
+}
