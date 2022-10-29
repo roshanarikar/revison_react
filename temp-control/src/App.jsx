@@ -7,32 +7,35 @@ function App() {
   const [tempColor, setTempColor] =  useState("cold")
 
   const increseTemp = () => {
-    setTempCount(tempCount+1)
+    let incTemp = tempCount+1
 
-    if(tempCount>15){
+    if(incTemp>15){
       setTempColor("hot")
     }
+
+    setTempCount(incTemp)
   }
 
   const decreseTemp = () => {
-    setTempCount(tempCount-1)
+    let decTemp = tempCount-1
 
-    if(tempCount<=15){
+    if(decTemp<=15){
       setTempColor("cold")
     }
+    setTempCount(decTemp)
   }
 
   return (
     <div className="App">
            <div>
             <div>
-              <div className='box'>
+              <div className={`box ${tempColor}`}>
                 {tempCount} C
               </div>
             </div>
             <div>
-              <button onClick={()=> setTempCount(tempCount-1)}>-</button>
-              <button onClick={()=> setTempCount(tempCount+1)}>+</button>
+              <button onClick={()=> decreseTemp()}>-</button>
+              <button onClick={()=> increseTemp()}>+</button>
             </div>
            </div>
     </div>
