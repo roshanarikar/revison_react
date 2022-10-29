@@ -7,6 +7,10 @@ function App() {
   const [tempColor, setTempColor] =  useState("cold")
 
   const increseTemp = () => {
+
+    if(tempCount==30){
+      return
+    }
     let incTemp = tempCount+1
 
     if(incTemp>15){
@@ -17,6 +21,10 @@ function App() {
   }
 
   const decreseTemp = () => {
+    if(tempCount==0){
+      return
+    }
+
     let decTemp = tempCount-1
 
     if(decTemp<=15){
@@ -30,7 +38,7 @@ function App() {
            <div>
             <div>
               <div className={`box ${tempColor}`}>
-                {tempCount} C
+                {tempCount}℃
               </div>
             </div>
             <div>

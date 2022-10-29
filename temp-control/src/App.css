@@ -43,8 +43,11 @@
 .box{
   width: 200px;
   height: 200px;
-  border: 1px solid black;
+  border: none;
   margin: auto;
+  font-size: 50px;
+  margin: auto;
+  padding-top: 60px;
 }
 
 .cold{
@@ -53,4 +56,14 @@
 
 .hot{
   background-color: orange;
+}
+
+button{
+  width: 80px;
+  height: 50px;
+  background-color: #888;
+  margin-top: 20px;
+  font-size: 30px;
+  margin-left: 10px;
+  border: none;
 }
