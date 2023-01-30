@@ -1,10 +1,18 @@
 const http = require("http");
+const fs = require("fs")
 
 const server = http.createServer((request,response)=>{
     if(request.url==="/"){
         response.end("This is home page")
     } else if(request.url==="/data"){
-        response.end("This is data page")
+        fs.readFile("./data.json",(err,data)=>{
+            if(err){
+                response.write(err)
+                response.end()
+            }else{
+                response.end(data)
+            }
+        })
     }else{
         response.end("Invalid end point")
     }
