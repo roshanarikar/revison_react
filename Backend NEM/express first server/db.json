@@ -1,0 +1,22 @@
+{
+    "student": [
+        {
+           "name" : "Roshan",
+           "city" : "Nagpur"
+        },
+        {
+           "name" : "Aacharya",
+           "city" : "Mumbai"
+        }
+    ],
+    "teacher": [
+        {
+           "name" : "Venu",
+           "sub" : "DSA"
+        },
+        {
+           "name" : "Varun",
+           "sub" : "Coding"
+        }
+    ]
+}
