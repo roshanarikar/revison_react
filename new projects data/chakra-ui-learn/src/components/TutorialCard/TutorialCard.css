@@ -1,0 +1,13 @@
+@media only screen and (max-width:560px){
+    .tutorialTitle{
+        font-size: 80px;
+        margin-left: 100px
+    }
+    .tutorialSubTitle{
+        font-size: 40px;
+        margin-left: 270px;
+    }
+    .NavLinkText{
+        font-size: 30px;
+    }
+}

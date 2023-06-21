@@ -1,0 +1,47 @@
+.acceptText{
+    font-size: small;
+    padding: 0 12px;
+}
+.blueLink{
+    color: blue;
+}
+.divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.divider-line {
+  flex-grow: 1;
+  height: 0.5px;
+  background-color: grey;
+}
+
+.divider-text {
+  margin: 0 10px;
+  font-weight: bold;
+  color: #333;
+  text-transform: uppercase;
+}
+.googleBtn{
+    border: 0.2px solid grey;
+}
+.timer{
+  color:  grey;
+  margin-left: 40%;
+  font-size: small;
+}
+.signUpBtn{
+  color: white;
+  background-color: rgb(174,198,244);
+  height: 45px;
+  border-radius: 10px;
+  font-size: 5px;
+}
+.signUpBtn:hover{
+  background-color: rgb(67,88,246);
+}
+.danger{
+  color: red;
+}

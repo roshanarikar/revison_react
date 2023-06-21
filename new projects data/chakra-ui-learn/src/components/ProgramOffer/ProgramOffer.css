@@ -1,0 +1,27 @@
+.eduText{
+    font-size: 13px;
+    color: rgb(110,113,204);
+    background-color: rgb(231, 233, 255);
+    margin-right: 10px;
+    border-radius: 8px;
+    padding: 0 10px 0 10px
+}
+
+@media only screen and (max-Width:560px){
+   .programContainer{
+     width: 100px
+   }
+   .programSubTitle{
+    font-size: 200px;
+   }
+   .offerCardContainer{
+    flex-direction: column;
+   }
+   .offerCard{
+    border: 1px solid red;
+    margin: auto;
+   }
+   .offerCardOne{
+    width: 1200px;
+   }
+}

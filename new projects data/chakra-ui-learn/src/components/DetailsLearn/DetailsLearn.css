@@ -1,0 +1,22 @@
+
+
+@media only screen and (max-Width:650px){
+    .detailsContainer{
+        flex-direction: column;
+    }
+    .whatDetails{  
+        width: 1200px;
+        margin-top: 20px;
+    }
+    .titleDetails{
+        font-size: 45px;
+    }
+    .stars{
+        width: 35px;
+        height: 35px;
+        margin-top: 10px;
+    }
+    .subTitleDetails{
+        font-size: 35px;
+    }
+}

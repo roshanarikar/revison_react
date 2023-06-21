@@ -1,0 +1,15 @@
+.navDiv{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 50%;
+    justify-content: space-around;
+    background-color: rgb(67,88,246);
+    color: white;
+    height: 50px;
+    font-size: 25px;
+}
+.navText{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,5 @@
+@media only screen and (max-Width:560px){
+    .TutorialDetailsContainer{
+        grid-template-columns: 100%;
+    }
+}

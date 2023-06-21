@@ -1,0 +1,51 @@
+@media only screen and (max-Width:560px){
+    .mainGridTutorial{
+        margin-bottom: 20px;
+    }
+    .viewBtnBox{
+        margin-left: 600px;
+        margin-top: -320px;
+    }
+    .TutorialItemLanding{
+        width: 100%;
+        height: 420vh;
+    }
+    .viewBtn{
+        width: 200px;
+        height: 70px;
+        font-size: 25px;
+    }
+    .cardImage{
+        height: 55%;
+    }
+    .levelText{
+        font-size: 30px;
+    }
+    .headingText{
+        font-size: 70px;
+        margin-top: 30px;
+    }
+    .moduleText{
+        font-size: 30px;
+    }
+    .moduleImg{
+        width: 45px;
+        height: 45px;
+    }
+    .certiBox{
+        margin-top: -170px;
+        width: 400px;
+        font-size: 27px;
+        height: 70px;
+        padding-left: 20px;
+    }
+    .certiImg{
+        width: 50px;
+        height: 50px;
+    }
+    .viewMoreText{
+        width: 150px;
+        margin-left: 1020px;
+        font-size: 25px;
+    }
+}

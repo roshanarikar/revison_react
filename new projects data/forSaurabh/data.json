@@ -1,0 +1,1585 @@
+{
+    "SearchData": [
+        {
+            "__typename": "Topics",
+            "heading": "Intro to Figma for Developers",
+            "moduleName": "Introduction",
+            "tutorialOf": "Figma For Developers ",
+            "pageUrl": "/tutorials/figma-for-developers/intro-to-figma-for-developers",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to Python",
+            "moduleName": "Introduction to Programming in Python",
+            "tutorialOf": "Basics of Python in Hindi",
+            "pageUrl": "/tutorials/basics-of-python-in-hindi/introduction-to-python",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Hello World in Python",
+            "moduleName": "Hello World!",
+            "tutorialOf": "Basics of Python in Hindi",
+            "pageUrl": "/tutorials/basics-of-python-in-hindi/hello-world-in-python",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Hello World Assignment",
+            "moduleName": "Hello World!",
+            "tutorialOf": "Basics of Python in Hindi",
+            "pageUrl": "/tutorials/basics-of-python-in-hindi/hello-world-assignment",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to JavaScript",
+            "moduleName": "Introduction",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/introduction-to-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Why Learn JavaScript?",
+            "moduleName": "Introduction",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/why-learn-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Hello World Program in JavaScript",
+            "moduleName": "Introduction",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/hello-world-program-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to JavaScript",
+            "moduleName": "Introduction",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/introduction-to-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Why Learn JavaScript?",
+            "moduleName": "Introduction",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/why-learn-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Hello World Program in JavaScript",
+            "moduleName": "Introduction",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/hello-world-program-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Print in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/print-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Variables in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/variables-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Data Types in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/data-types-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Take Input in JavaScript ",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/take-input-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Comments in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/comments-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Print in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/print-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Variables in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/variables-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Data Types in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/data-types-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Take Input in JavaScript ",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/take-input-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Comments in JavaScript",
+            "moduleName": "Programming Fundamental ",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/comments-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Operators in JavaScript",
+            "moduleName": "Operators in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/operators-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Logical Operators in JavaScript",
+            "moduleName": "Operators in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/logical-operators-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Type Conversion in JavaScript",
+            "moduleName": "Operators in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/type-conversion-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "If Else in JavaScript",
+            "moduleName": "Control Flow in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/if-else-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "For Loop in JavaScript",
+            "moduleName": "Control Flow in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/for-loop-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "While Loop in JavaScript",
+            "moduleName": "Control Flow in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/while-loop-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Break and Continue in JavaScript",
+            "moduleName": "Control Flow in JavaScript",
+            "tutorialOf": "JavaScript Tutorial",
+            "pageUrl": "/tutorials/javascript-tutorial/break-and-continue-in-javascript",
+            "TopicType": "blog",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Lecture 1",
+            "moduleName": "Excel",
+            "tutorialOf": "Basics of Data Analytics",
+            "pageUrl": "/tutorials/basics-of-data-analytics/lecture-1",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Lecture 2",
+            "moduleName": "Excel",
+            "tutorialOf": "Basics of Data Analytics",
+            "pageUrl": "/tutorials/basics-of-data-analytics/lecture-2",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Lecture 3",
+            "moduleName": "Excel",
+            "tutorialOf": "Basics of Data Analytics",
+            "pageUrl": "/tutorials/basics-of-data-analytics/lecture-3",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Lecture 4",
+            "moduleName": "Excel",
+            "tutorialOf": "Basics of Data Analytics",
+            "pageUrl": "/tutorials/basics-of-data-analytics/lecture-4",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Lecture 5",
+            "moduleName": "Excel",
+            "tutorialOf": "Basics of Data Analytics",
+            "pageUrl": "/tutorials/basics-of-data-analytics/lecture-5",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to HTML and CSS",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/introduction-to-html-and-css",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to HTML Tags",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/introduction-to-html-tags",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to CSS Stylesheets and Rules",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/introduction-to-css-stylesheets-and-rules",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Quick Quiz 1",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/quick-quiz-1",
+            "TopicType": "quiz",
+            "questions": [
+                {
+                    "__typename": "Questions",
+                    "id": "1"
+                },
+                {
+                    "__typename": "Questions",
+                    "id": "2"
+                }
+            ]
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Header Creating Layout",
+            "moduleName": "Portfolio - First Steps",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/header-creating-layout",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Header Styling with CSS",
+            "moduleName": "Portfolio - First Steps",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/header-styling-with-css",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Quick Quiz 2",
+            "moduleName": "Portfolio - First Steps",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/quick-quiz-2",
+            "TopicType": "quiz",
+            "questions": [
+                {
+                    "__typename": "Questions",
+                    "id": "3"
+                }
+            ]
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to HTML and CSS",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/introduction-to-html-and-css",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to HTML Tags",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/introduction-to-html-tags",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Introduction to CSS Stylesheets and Rules",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/introduction-to-css-stylesheets-and-rules",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Quick Quiz 1",
+            "moduleName": "Introduction",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/quick-quiz-1",
+            "TopicType": "quiz",
+            "questions": [
+                {
+                    "__typename": "Questions",
+                    "id": "1"
+                },
+                {
+                    "__typename": "Questions",
+                    "id": "2"
+                }
+            ]
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Header Creating Layout",
+            "moduleName": "Portfolio - First Steps",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/header-creating-layout",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Header Styling with CSS",
+            "moduleName": "Portfolio - First Steps",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/header-styling-with-css",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Quick Quiz 2",
+            "moduleName": "Portfolio - First Steps",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/quick-quiz-2",
+            "TopicType": "quiz",
+            "questions": [
+                {
+                    "__typename": "Questions",
+                    "id": "3"
+                }
+            ]
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Content Creating Layout",
+            "moduleName": "Portfolio - Final Output",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/content-creating-layout",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Content Final Output",
+            "moduleName": "Portfolio - Final Output",
+            "tutorialOf": "Basics of Web Development",
+            "pageUrl": "/tutorials/basics-of-web-development/content-final-output",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Android Studio and Android Virtual Device Installation",
+            "moduleName": "Android Studio installation",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/android-studio-and-android-virtual-device-installation",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "What are Layouts?",
+            "moduleName": "Introduction to Layouts",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/what-are-layouts",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Quiz 1",
+            "moduleName": "Introduction to Layouts",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/quiz-1",
+            "TopicType": "quiz",
+            "questions": [
+                {
+                    "__typename": "Questions",
+                    "id": "4"
+                },
+                {
+                    "__typename": "Questions",
+                    "id": "5"
+                }
+            ]
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Insert the Image and Name",
+            "moduleName": "Building the Portfolio UI",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/insert-the-image-and-name",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Insert Skillset",
+            "moduleName": "Building the Portfolio UI",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/insert-skillset",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Adding Work Experience at XYZ",
+            "moduleName": "Building the Portfolio UI",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/adding-work-experience-at-xyz",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Adding Work Experience at SYZ",
+            "moduleName": "Building the Portfolio UI",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/adding-work-experience-at-syz",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Adding Work Experience at Masai School",
+            "moduleName": "Building the Portfolio UI",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/adding-work-experience-at-masai-school",
+            "TopicType": "video",
+            "questions": []
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Quiz 2",
+            "moduleName": "Building the Portfolio UI",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/quiz-2",
+            "TopicType": "quiz",
+            "questions": [
+                {
+                    "__typename": "Questions",
+                    "id": "6"
+                },
+                {
+                    "__typename": "Questions",
+                    "id": "7"
+                },
+                {
+                    "__typename": "Questi ons",
+                    "id": "8"
+                }
+            ]
+        },
+        {
+            "__typename": "Topics",
+            "heading": "Resources",
+            "moduleName": "Download the resources",
+            "tutorialOf": "Basics of Android App Development",
+            "pageUrl": "/tutorials/basics-of-android-app-development/resources",
+            "TopicType": "blog",
+            "questions": []
+        }
+    ],
+  "card": [
+    {
+      "id": 1,
+      "heading":"JavaScript Tutorial",
+      "tag":"",
+      "level":"BEGINNER",
+      "description":"JavaScript is one of the popular programming languages that is used in most of the websites on the World Wide Web. It is also known as JS and is lightweight, cross-",
+      "redirectUrl": "/tutorials/javascript-tutorial",
+      "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Basics_of_Data_Analytics_4c81162a5c.webp",
+      "numberOfModules":"4",
+      "timeRequiredToComplete": "2.5 hours",
+      "hasCertificate":"CERTIFICATE INCLUDED",
+      "button": "VIEW DETAILS"
+    },
+    {
+      "id": 2,
+      "heading":"Figma for Developers",
+      "tag":"",
+      "level":"BEGINNER",
+      "description":"Figma is an amazing tool to build UI and workflows, and by understanding the tool better, you can work with designers better.",
+      "redirectUrl": "/tutorials/figma-for-developers",
+      "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Figma_for_Developers_FIGMA_925c0fa725.png",
+      "numberOfModules":"1",
+      "timeRequiredToComplete": "49 min",
+      "hasCertificate":"CERTIFICATE INCLUDED",
+      "button": "VIEW DETAILS"
+    },
+    {
+      "id": 3,
+      "heading":"Basics of Web Development",
+      "tag":"",
+      "level":"BEGINNER",
+      "description":"This Masai-101 course will teach you about the basics of HTML and CSS. At the end of this course, you will be able to create your own web apps",
+      "redirectUrl": "/tutorials/basics-of-web-development",
+      "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Course_Thumbnails_Web_Development_70fe7a6b9f.png",
+      "numberOfModules":"3",
+      "timeRequiredToComplete": "70 min",
+      "hasCertificate":"CERTIFICATE INCLUDED",
+      "button": "VIEW DETAILS"
+    }
+  ],
+  "cards": [ {
+    "id": 1,
+    "heading":"JavaScript Tutorial",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"JavaScript is one of the popular programming languages that is used in most of the websites on the World Wide Web. It is also known as JS and is lightweight, cross-",
+    "redirectUrl": "/tutorials/javascript-tutorial",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Basics_of_Data_Analytics_4c81162a5c.webp",
+    "numberOfModules":"4",
+    "timeRequiredToComplete": "2.5 hours",
+    "hasCertificate":"CERTIFICATE INCLUDED",
+    "button": "VIEW DETAILS"
+  },
+  {
+    "id": 2,
+    "heading":"Figma for Developers",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"Figma is an amazing tool to build UI and workflows, and by understanding the tool better, you can work with designers better.",
+    "redirectUrl": "/tutorials/figma-for-developers",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Figma_for_Developers_FIGMA_925c0fa725.png",
+    "numberOfModules":"1",
+    "timeRequiredToComplete": "49 min",
+    "hasCertificate":"CERTIFICATE INCLUDED",
+    "button": "VIEW DETAILS"
+  },
+  {
+    "id": 3,
+    "heading":"Basics of Web Development",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"This Masai-101 course will teach you about the basics of HTML and CSS. At the end of this course, you will be able to create your own web apps",
+    "redirectUrl": "/tutorials/basics-of-web-development",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Course_Thumbnails_Web_Development_70fe7a6b9f.png",
+    "numberOfModules":"3",
+    "timeRequiredToComplete": "70 min",
+    "hasCertificate":"CERTIFICATE INCLUDED",
+    "button": "VIEW DETAILS"
+  },
+  {
+    "id": 4,
+    "heading":"Basics of Python in Hindi",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"This course is an introduction to both fundamental programming concepts and the Python programming language. It aims to teach how to write computer...",
+    "redirectedUrl":"/tutorials/basics-of-python-in-hindi",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Basics_of_Python_Hindi_English_a232d8dec1.webp",
+    "numberOfModules":"13",
+    "timeRequiredToComplete": "14 hours",
+    "hasCertificate":"CERTIFICATE INCLUDED",
+    "button": "VIEW DETAILS"
+  },
+  {
+    "id": 5,
+    "heading":"Basics of Data Analytics",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"Learn the fundamentals of data analytics without having any prior experience",
+    "redirectedUrl":"/tutorials/basics-of-data-analytics",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Basics_of_Data_Analytics_4c81162a5c.webp",
+    "numberOfModules":"1",
+    "timeRequiredToComplete": "1 hours 45 min",
+    "hasCertificate":"CERTIFICATE INCLUDED",
+    "button": "VIEW DETAILS"
+  },
+  {
+    "id": 6,
+    "heading":"SQL Tutorial",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"In computer science, a programming language SQL i.e. Structured Query Language is designed to access, manipulate and communicate with the database.",
+    "redirectedUrl":"",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/EFM_Tutorial_Card_52c4e8d879.webp",
+    "numberOfModules":"9",
+    "timeRequiredToComplete": "3 hours",
+    "button": "COMMING SOON"
+  },
+  {
+    "id": 7,
+    "heading":"Python Tutorial",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"Python is one of the most popular and widely used programming languages. And, you might have heard about Python no matter whether you are in the",
+    "redirectedUrl":"",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/React_JS_tutorial_e7d357ddad.png",
+    "numberOfModules":"9",
+    "timeRequiredToComplete": "4 hour",
+    "button": "COMMING SOON"
+  },
+  {
+    "id": 8,
+    "heading":"English Fluency Marathon (EFM)",
+    "tag":"",
+    "level":"BEGINNER",
+    "description":"The English Fluency Marathon (EFM) is a culmination of a deep desire to learn English, determination, and deliberate practice to dramatically boost your fluency in",
+    "redirectedUrl":"",
+    "imageUrl": "https://masai-website-images.s3.ap-south-1.amazonaws.com/EFM_Tutorial_Card_52c4e8d879.webp",
+    "numberOfModules":"50",
+    "timeRequiredToComplete": "5000 min",
+    "button": "COMMING SOON"
+  }
+],
+  "programs": {
+    "data": {
+      "programs": [
+        {
+          "__typename": "Program",
+          "id": "1",
+          "title": "Masai 0NE",
+          "programpopulartag": "< Learn. Practice. Grow >",
+          "tags": "12th Pass, Final year students or Graduates",
+          "order": 1,
+          "timetype": "fullTime",
+          "description": "Launch your career in tech, no matter your educational background. Pay after placement of 5,00,000/- or more, else learn at no cost.",
+          "bgcolor": "#6E71CC",
+          "slug": "masai-0ne",
+          "payment": "No Prior Technical Knowledge Needed",
+          "whentopay": "5 LPA or Above",
+          "educationcriteria": "Data Analytics | Software Development",
+          "thumbnail": {
+            "__typename": "UploadFile",
+            "url": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_1_c382f15ecf.png"
+          },
+          "subsidiaries": [
+            {
+              "__typename": "Subsidiary",
+              "name": "Prepleaf"
+            }
+          ]
+        },
+        {
+          "__typename": "Program",
+          "id": "2",
+          "title": "MasaiX.",
+          "programpopulartag": "Fast Track Your Aspiration",
+          "tags": "For working professionals ",
+          "order": 2,
+          "timetype": "fullTime",
+          "description": "Starting your journey in tech, or looking to take the next step in your developer journey, if you are a working professional with an ambition, we will invest in your future.",
+          "bgcolor": "#6FCD9E",
+          "slug": "masai-x",
+          "payment": "",
+          "whentopay": "5 LPA or Above,10 LPA or Above",
+          "educationcriteria": "Data Analytics | Software Development",
+          "thumbnail": {
+            "__typename": "UploadFile",
+            "url": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Downloader_45493fc392.png"
+          },
+          "subsidiaries": [
+            {
+              "__typename": "Subsidiary",
+              "name": "design shift"
+            }
+          ]
+        }
+      ]
+    },
+    "loading": false,
+    "networkStatus": 7
+  },
+  "introJavascript": {
+    "__typename": "Topics",
+    "id": "8",
+    "order": 1,
+    "moduleName": "Introduction",
+    "moduleId": 4,
+    "tutorialOf": "JavaScript Tutorial",
+    "hasVideoTutorial": null,
+    "TopicType": "blog",
+    "videoLink": null,
+    "publishedOn": "2022-10-14",
+    "updatedOn": "2022-10-14",
+    "author": "Mukul Latiyan",
+    "questions": [],
+    "imageMobile": {
+      "__typename": "UploadFile",
+      "id": "926",
+      "url": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Introduction_to_Java_Script_Mobile_a7e9720a2f.jpg",
+      "alternativeText": ""
+    },
+    "imageDesktop": {
+      "__typename": "UploadFile",
+      "id": "927",
+      "url": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Introduction_to_Java_Script_Desktop_da858df529.jpg",
+      "alternativeText": ""
+    },
+    "searchImage": {
+      "__typename": "UploadFile",
+      "id": "929",
+      "url": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Search_Introduction_to_Java_Script_ac0bc116e4.png",
+      "alternativeText": ""
+    },
+    "heading": "Introduction to JavaScript",
+    "description": "",
+    "pageUrl": "/tutorials/javascript-tutorial/introduction-to-javascript",
+    "readingTime": "3 mins read",
+    "subTopics": [
+      {
+        "__typename": "ComponentMasaiLearnSubTopics",
+        "id": "5",
+        "subTopicHeading": "What is JavaScript?",
+        "description": "JavaScript is one of the popular programming languages that is used in most of the websites on the World Wide Web. It is also known as JS and is lightweight, cross-platform, and interpreted in nature.\n\nMost of the time, JS is used to make webpages interactive and alive. For example, showing popups and changing page content when a button is clicked, validating users' emails on forms, and so on.\n\nBasically, we can say that if you want to do anything related to websites and webpages, JavaScript is the language to go with.\n\nBesides webpages, JavaScript is also used in game development, mobile app development, artwork creation, etc.\n\nIn short, it would be fair to conclude that javascript is the one language that rules the web.",
+        "image": null,
+        "isCodingQuestion": null,
+        "testCaseInput": null,
+        "testCaseOutput": null,
+        "codeTemplate": null,
+        "language": null
+      },
+      {
+        "__typename": "ComponentMasaiLearnSubTopics",
+        "id": "9",
+        "subTopicHeading": "History of JavaScript",
+        "description": "JavaScript was created in 1995 by Brandan Eich, a Netscape programmer at that time. Initially, it was named Mocha and LiveScript. However, while taking the language public, it was named JavaScript.\n\nThe name was derived from the famous programming language Java to make it look more appealing.\n\nDespite having a similar name, JavaScript has nothing to do with Java. It's an independent language with its own set of specifications. In recent times, JavaScript is also referred to as ECMAScript, and programs written in JavaScript are called scripts.",
+        "image": null,
+        "isCodingQuestion": null,
+        "testCaseInput": null,
+        "testCaseOutput": null,
+        "codeTemplate": null,
+        "language": null
+      },
+      {
+        "__typename": "ComponentMasaiLearnSubTopics",
+        "id": "10",
+        "subTopicHeading": "Why Learn JavaScript?",
+        "description": "You might be wondering why JavaScript, why not Python or Java. Well, the simple answer to this question is that JavaScript is used everywhere on the web.\n\nIf your goal is to dive into the field of web development, then you should choose JavaScript without any double thought. Here're some of the reasons why you should learn JavaScript.\n- Beginner Friendly Language\n- Versatile Language\n- Best Language for Better Career\n- High Paying Programming Language\n- Huge Community\n\nThese are the basic reasons why you should learn JavaScript. If you want to explore this topic in more depth, visit our next article: [Why Learn JavaScript?](https://masaischool.com/learn/tutorials/javascript-tutorial/why-learn-javascript)",
+        "image": null,
+        "isCodingQuestion": null,
+        "testCaseInput": null,
+        "testCaseOutput": null,
+        "codeTemplate": null,
+        "language": null
+      },
+      {
+        "__typename": "ComponentMasaiLearnSubTopics",
+        "id": "11",
+        "subTopicHeading": "Requirements for this Course",
+        "description": "Before you start this course, there are certain things you need to make the most out of this course.\n\n- **Have a basic understanding of HTML and CSS:** Within this course, we will be mostly working with web pages, so a basic understanding of HTML and CSS will help you understand the code part more clearly.\n- **Working Environment:** Like mentioned above, we will be working with codes and examples within this course. That's why you should have your working environment set up properly. Working environment means downloading an IDE (Integrated Development Environment) and setting it up properly to run JS code.",
+        "image": null,
+        "isCodingQuestion": null,
+        "testCaseInput": null,
+        "testCaseOutput": null,
+        "codeTemplate": null,
+        "language": null
+      },
+      {
+        "__typename": "ComponentMasaiLearnSubTopics",
+        "id": "12",
+        "subTopicHeading": "Conclusion",
+        "description": "This article covers the basics of the JavaScript programming language and has set up a proper path to start this course.",
+        "image": null,
+        "isCodingQuestion": null,
+        "testCaseInput": null,
+        "testCaseOutput": null,
+        "codeTemplate": null,
+        "language": null
+      }
+    ],
+    "seoMetaData": {
+      "__typename": "ComponentSeoSeoItem",
+      "route": "/tutorials/javascript-tutorial/introduction-to-javascript",
+      "keywords": "introduction to javascript, applications of javascript, hello world program in javascript, masai learn introduction to javascript, masai learn applications of javascript, masai learn hello world program in javascript, ",
+      "title": "Masai Learn - An Introduction to JavaScript",
+      "description": "JavaScript (known as JS) is a lightweight, cross-platform, and interpreted programming language that is used in most of the websites on the world wide web.",
+      "id": "11",
+      "titleTemplate": "%s - Masai Learn",
+      "openGraph": {
+        "__typename": "ComponentSeoOpenGraph",
+        "title": "Masai Learn - An Introduction to JavaScript",
+        "description": "JavaScript (known as JS) is a lightweight, cross-platform, and interpreted programming language that is used in most of the websites on the world wide web.",
+        "type": "website",
+        "locale": "en_IE",
+        "url": "https://masaischool.com/learn/tutorials/javascript-tutorial/introduction-to-javascript",
+        "site_name": "Masai Learn",
+        "images": [
+          {
+            "__typename": "OgImagesCollection",
+            "id": "41",
+            "url": "https://masai-website-images.s3.ap-south-1.amazonaws.com/OG_Introduction_to_Java_Script_7c59df8dcd.png",
+            "alt": "Masai Learn"
+          }
+        ]
+      }
+    }
+  },
+  "modules": [
+    {
+      "__typename": "Modules",
+      "id": "4",
+      "tutorialName": "JavaScript Tutorial",
+      "moduleHeading": "Introduction",
+      "moduleNumber": 1,
+      "pageUrl": "/tutorials/javascript-tutorial",
+      "topics": [
+        {
+          "__typename": "Topics",
+          "id": "8",
+          "heading": "Introduction to JavaScript",
+          "order": 1,
+          "pageUrl": "/tutorials/javascript-tutorial/introduction-to-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "What is JavaScript?"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "History of JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Why Learn JavaScript?"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Requirements for this Course"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "11",
+          "heading": "Why Learn JavaScript?",
+          "order": 2,
+          "pageUrl": "/tutorials/javascript-tutorial/why-learn-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": null
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Applications of JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "12",
+          "heading": "Hello World Program in JavaScript",
+          "order": 3,
+          "pageUrl": "/tutorials/javascript-tutorial/hello-world-program-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Requirements to Run JavaScript Code"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Hello World in JavaScript"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__typename": "Modules",
+      "id": "5",
+      "tutorialName": "JavaScript Tutorial",
+      "moduleHeading": "Programming Fundamental",
+      "moduleNumber": 2,
+      "pageUrl": "/tutorials/javascript-tutorial",
+      "topics": [
+        {
+          "__typename": "Topics",
+          "id": "10",
+          "heading": "Print in JavaScript",
+          "order": 4,
+          "pageUrl": "/tutorials/javascript-tutorial/print-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to Printing Output"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Different Ways to Print Output"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "console.log()"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "window.alert()"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "innerHTML()"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "document.write()"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "window.print()"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "17",
+          "heading": "Variables in JavaScript",
+          "order": 5,
+          "pageUrl": "/tutorials/javascript-tutorial/variables-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to JavaScript Variables"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Declaring variables in JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Assigning values to the variables"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Use of Variables in JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Types of Variables"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Variable Names in JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "18",
+          "heading": "Data Types in JavaScript",
+          "order": 6,
+          "pageUrl": "/tutorials/javascript-tutorial/data-types-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to Data Types"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Different types of Data types in JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Primitive Data Types"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Non-Primitive Data Types"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Arrays"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Check Data type using typeof"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "21",
+          "heading": "Take Input in JavaScript ",
+          "order": 7,
+          "pageUrl": "/tutorials/javascript-tutorial/take-input-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "prompt()"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Editing DOM Element with Input Value using Prompt"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "prompt() with Default Value"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "22",
+          "heading": "Comments in JavaScript",
+          "order": 8,
+          "pageUrl": "/tutorials/javascript-tutorial/comments-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to Comments"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Why use comments?"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Types of Comments"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Single Line Comment"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Multi-Line Comment"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Comments to prevent the execution of the code"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__typename": "Modules",
+      "id": "6",
+      "tutorialName": "JavaScript Tutorial",
+      "moduleHeading": "Operators in JavaScript",
+      "moduleNumber": 3,
+      "pageUrl": "/tutorials/javascript-tutorial",
+      "topics": [
+        {
+          "__typename": "Topics",
+          "id": "13",
+          "heading": "Operators in JavaScript",
+          "order": 9,
+          "pageUrl": "/tutorials/javascript-tutorial/operators-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Type of Operators in JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Comparison Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Logical Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Arithmetic Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Assignment Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Bitwise Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Quiz"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "15",
+          "heading": "Logical Operators in JavaScript",
+          "order": 10,
+          "pageUrl": "/tutorials/javascript-tutorial/logical-operators-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "JavaScript Boolean"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Comparison Operator"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Logical Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Logical AND"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Logical OR"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Logical NOT"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Use of Logical Operators"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "16",
+          "heading": "Type Conversion in JavaScript",
+          "order": 11,
+          "pageUrl": "/tutorials/javascript-tutorial/type-conversion-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to Type Conversion"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Types of Type Conversion"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Implicit Conversion"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Implicitly converting to a String"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Implicitly Converting to a Number"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Implicitly converting from a Boolean to a Number"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Implicitly Converting Null to Number"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Explicit Conversion"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "__typename": "Modules",
+      "id": "7",
+      "tutorialName": "JavaScript Tutorial",
+      "moduleHeading": "Control Flow in JavaScript",
+      "moduleNumber": 4,
+      "pageUrl": "/tutorials/javascript-tutorial",
+      "topics": [
+        {
+          "__typename": "Topics",
+          "id": "14",
+          "heading": "If Else in JavaScript",
+          "order": 12,
+          "pageUrl": "/tutorials/javascript-tutorial/if-else-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Different variations of If Else"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "If Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "If Else Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "If Else with multiple conditions"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Else If Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Nested if Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Nested If Else Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "19",
+          "heading": "For Loop in JavaScript",
+          "order": 13,
+          "pageUrl": "/tutorials/javascript-tutorial/for-loop-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Different Types of Loop in JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "For Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": ""
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "for Loop Example"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Print Different Values with for Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Infinite for Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "For Loop with if else"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "For Loop with break Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "For Loop with continue Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Conclusion"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "23",
+          "heading": "While Loop in JavaScript",
+          "order": 14,
+          "pageUrl": "/tutorials/javascript-tutorial/while-loop-in-javascript",
+          "videoLink": null,
+          "TopicType": "blog",
+          "hasVideoTutorial": null,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction to While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Do While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "While Loop vs. Do While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "For Loop vs. While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Infinite While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "While Loop With Break Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "While Loop With Continue Statement"
+            }
+          ]
+        },
+        {
+          "__typename": "Topics",
+          "id": "20",
+          "heading": "Break and Continue in JavaScript",
+          "order": 15,
+          "pageUrl": "/tutorials/javascript-tutorial/break-and-continue-in-javascript",
+          "videoLink": "",
+          "TopicType": "blog",
+          "hasVideoTutorial": false,
+          "questions": [
+            
+          ],
+          "subTopics": [
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Introduction To Break and Continue"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Break Statement"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Break With While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Break Statement With Switch Case In JavaScript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Continue Statement In Javascript"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Continue With While Loop"
+            },
+            {
+              "__typename": "ComponentMasaiLearnSubTopics",
+              "subTopicHeading": "Label Break And Continue In JavaScript"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
